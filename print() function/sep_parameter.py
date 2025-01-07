@@ -1,0 +1,1 @@
+print("", "is", "fun", sep="-")
