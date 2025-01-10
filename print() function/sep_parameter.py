@@ -1,1 +1,0 @@
-print("", "is", "fun", sep="-")
